@@ -1,0 +1,45 @@
+body{
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
+h1{
+    height: 50px;
+    width: 100%;
+    margin-top: 0;
+    padding-top: 0;
+    text-align: center;
+    font-family: fantasy;
+    background-color: black;
+    color: white;
+}
+
+.list li{
+    display: inline;
+    margin-right: 25px;
+    list-style-type: none;
+    text-transform: capitalize;
+    font-size: larger;
+}
+
+.list li a:hover{
+    background-color: gray;
+}
+
+.hometext{
+    float: right;
+    text-align: center;
+    margin-left: 5px;
+    background-color: rgba(241, 109, 107, .7);;
+    color: white;
+    word-spacing: 5px;
+    font-family: monospace;
+    font-weight: bolder;
+}
+
+.homeimage{
+    height: 250px;
+    width: 250px;
+    float: left;
+}
