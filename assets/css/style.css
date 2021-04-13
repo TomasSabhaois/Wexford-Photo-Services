@@ -1,5 +1,4 @@
 body{
-    background-image: url("https://www.amateurphotographer.co.uk/wp-content/uploads/2021/01/Nikon-14-24mm-carousel-600x490.jpg") no-repeat center center;
     color: black;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: center;
@@ -8,20 +7,12 @@ body{
 h1{
     height: 50px;
     width: 100%;
-    margin-top: 0;
-    padding-top: 0;
     text-align: center;
     font-family: fantasy;
     background-color: black;
     color: white;
 }
 
-footer{
-    background-color: black;
-    color: white;
-    bottom: 0;
-    position: fixed;
-}
 
 .list li{
     display: inline;
@@ -30,8 +21,7 @@ footer{
     text-transform: capitalize;
     font-size: larger;
     padding-top: 20px;
-    padding-bottom: 15px;
-    margin-bottom: 15px;
+    float: right;
 }
 
 .list li a:hover{
@@ -47,9 +37,22 @@ footer{
     word-spacing: 5px;
     font-family: monospace;
     font-weight: bolder;
+    padding-bottom: 5px;
+    margin-bottom: 5px;
 }
 
-.homeimage{
-    height: 100%;
+#hometext{
+    float: left;
+    text-align: center;
+    margin-left: 5px;
+    background-color: rgba(241, 109, 107, .7);
+    color: white;
+    word-spacing: 5px;
+    font-family: monospace;
+    font-weight: bolder;
+}
+
+.Camera{
+    height: 600px;
     width: 100%;
 }
