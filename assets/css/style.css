@@ -9,8 +9,7 @@ body{
     width: 100%;
     text-align: center;
     font-family: fantasy;
-    background: url(https://www.irishcentral.com/uploads/article-v2/2019/11/135868/Wexford_Town_Fireworks_Tourism_Ireland.jpg?t=1574210733) no-repeat center center;
-    position: relative;
+    background-color: black;
     color: white;
     margin-bottom: 5px;
 }
@@ -33,6 +32,18 @@ body{
     background-color: gray;
 }
 
+footer{
+    height: 60px;
+    width: 100%;
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+footer li{
+    display: inline;
+}
+
 .hometext{
     text-align: center;
     background-color: rgba(241, 109, 107, .7);
@@ -48,7 +59,7 @@ body{
 #homeimage{
     height: 800px;
     width: 100%;
-    background: url(https://s3.amazonaws.com/giveffect-assets/blog/wp-content/uploads/2018/10/05163220/special-events-milano-cover.jpg) no-repeat center center;
+    background: url(https://www.irishcentral.com/uploads/article-v2/2019/11/135868/Wexford_Town_Fireworks_Tourism_Ireland.jpg?t=1574210733) no-repeat center center;
     overflow: hidden;
     position: relative;
 }
@@ -60,8 +71,38 @@ body{
 }
 
 #aboutimage{
-    height: 500px;
+    height: 800px;
     width: 100%;
     margin-bottom: 0;
     background: url(https://lh3.googleusercontent.com/proxy/W7Fezo4LL2ZuUb0Vl5fSzHqJ4iy21rMfS7K8osiHvfapHP96RuF0IP1XJ2oRZtQYDuuUY9C4fYzEncr8Cs71QpwV0Ytymv4vAc9ZxKnE6HjAJNyWJGd8yQ) no-repeat center center;
+    overflow: hidden;
+    position: relative;
+}
+
+#servicesimage{
+    height: 800px;
+    width: 100%;
+    background: url(http://pdacademy.co.za/wp-content/uploads/2016/04/service-banner.png) no-repeat center center;
+    overflow: hidden;
+    position: relative;
+}
+
+.servicestext{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: rgba(241, 109, 107, .7);
+}
+
+#contact{
+    height: 800px;
+    width: 100%;
+    background: url(https://st2.depositphotos.com/1560768/5217/i/600/depositphotos_52175409-stock-photo-female-hand-touching-contact-us.jpg) no-repeat center center; 
+    overflow: hidden;
+    position: relative;
+}
+
+.contact{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    background-color: teal;
 }
