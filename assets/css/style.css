@@ -49,6 +49,8 @@ body{
     font-weight: bolder;
     padding-bottom: 5px;
     margin-bottom: 5px;
+    position: relative;
+
 }
 
 #hometext{
@@ -60,18 +62,17 @@ body{
     word-spacing: 5px;
     font-family: monospace;
     font-weight: bolder;
+    position: relative;
 }
 
 .Camera{
-    float: left;
     height: 100%;
     width: 100%;
+    position: absolute;
 }
 
 .aboutimage{
-    height: 300px;
-    width: 300px;
-    float: none;
-    padding-left: 5px;
-    padding-right: 5px;
+    height: 100%;
+    width: 100%;
+    position: absolute;
 }
