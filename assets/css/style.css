@@ -76,3 +76,23 @@ body{
     width: 100%;
     position: absolute;
 }
+
+.home{
+    height: 350px;
+    width: 100%;
+}
+
+.About{
+    height: 350px;
+    width: 100%;
+}
+
+.Services{
+    height: 350px;
+    width: 100%;
+}
+
+.Contact{
+    height: 350px;
+    width: 100%;
+}
