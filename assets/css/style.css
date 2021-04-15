@@ -9,11 +9,11 @@ body{
     width: 100%;
     text-align: center;
     font-family: fantasy;
-    background: url(https://live.staticflickr.com/7326/10498785414_9021accbed_b.jpg) no-repeat center center;
+    background: url(https://www.irishcentral.com/uploads/article-v2/2019/11/135868/Wexford_Town_Fireworks_Tourism_Ireland.jpg?t=1574210733) no-repeat center center;
+    position: relative;
     color: white;
+    margin-bottom: 5px;
 }
-
-
 
 .list li{
     display: inline;
@@ -21,6 +21,12 @@ body{
     list-style-type: none;
     text-transform: capitalize;
     font-size: larger;
+    color: white;
+}
+
+.li a {
+    text-decoration: none;
+    color: white;
 }
 
 .list li a:hover{
@@ -32,9 +38,7 @@ body{
     background-color: rgba(241, 109, 107, .7);
     color: white;
     word-spacing: 5px;
-    margin-top: 50px;
-    margin-left: 50px;
-    padding: 20px, 20px, 20px, 20px;
+    padding: 25px, 25px, 25px, 25px;
     font-family: monospace;
     font-weight: bolder;
     position: absolute;
@@ -43,9 +47,9 @@ body{
 #homeimage{
     height: 800px;
     width: 100%;
-    padding: 5px, 5px 5px 5px;
-    margin: 5px, 5px 5px 5px;
     background: url(https://s3.amazonaws.com/giveffect-assets/blog/wp-content/uploads/2018/10/05163220/special-events-milano-cover.jpg) no-repeat center center;
+    overflow: hidden;
+    position: relative;
 }
 
 .abouttext{
