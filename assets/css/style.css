@@ -4,8 +4,8 @@ body{
     text-align: center;
 }
 
-h1{
-    height: 50px;
+.header{
+    height: 300px;
     width: 100%;
     text-align: center;
     font-family: fantasy;
@@ -13,6 +13,18 @@ h1{
     color: white;
 }
 
+.blue{
+    height: 150px;
+    width: 150px;
+    float: right;
+}
+
+.cannon{
+    height: 150px;
+    width: 150px;
+    float: left;
+
+}
 
 .list li{
     display: inline;
@@ -20,8 +32,6 @@ h1{
     list-style-type: none;
     text-transform: capitalize;
     font-size: larger;
-    padding-top: 20px;
-    float: right;
 }
 
 .list li a:hover{
