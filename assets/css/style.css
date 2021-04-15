@@ -38,7 +38,8 @@ body{
     background-color: rgba(241, 109, 107, .7);
     color: white;
     word-spacing: 5px;
-    padding: 25px, 25px, 25px, 25px;
+    margin-left: 25px;
+    margin-top: 25px;
     font-family: monospace;
     font-weight: bolder;
     position: absolute;
@@ -53,20 +54,14 @@ body{
 }
 
 .abouttext{
-    float: right;
-    width: 500px;
-    height: 500px;
-    padding-left: 20px;
-    padding-top: 20px;
-    margin-left: 20px;
-    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
     background-color: rgba(241, 109, 107, .7);
 }
 
 #aboutimage{
-    float: left;
     height: 500px;
-    width: 500px;
-    padding-right: 2.5px;
+    width: 100%;
+    margin-bottom: 0;
     background: url(https://lh3.googleusercontent.com/proxy/W7Fezo4LL2ZuUb0Vl5fSzHqJ4iy21rMfS7K8osiHvfapHP96RuF0IP1XJ2oRZtQYDuuUY9C4fYzEncr8Cs71QpwV0Ytymv4vAc9ZxKnE6HjAJNyWJGd8yQ) no-repeat center center;
 }
