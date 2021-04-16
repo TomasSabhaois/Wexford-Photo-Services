@@ -33,7 +33,7 @@ body{
 }
 
 footer{
-    height: 60px;
+    height: 120px;
     width: 100%;
     background-color: black;
     text-align: center;
@@ -42,6 +42,11 @@ footer{
 
 footer li{
     display: inline;
+    margin-right: 25px;
+    list-style-type: none;
+    text-transform: capitalize;
+    font-size: larger;
+    color: white;
 }
 
 .hometext{
@@ -57,7 +62,7 @@ footer li{
 }
 
 #homeimage{
-    height: 800px;
+    height: 400px;
     width: 100%;
     background: url(https://www.irishcentral.com/uploads/article-v2/2019/11/135868/Wexford_Town_Fireworks_Tourism_Ireland.jpg?t=1574210733) no-repeat center center;
     overflow: hidden;
@@ -71,7 +76,7 @@ footer li{
 }
 
 #aboutimage{
-    height: 800px;
+    height: 400px;
     width: 100%;
     margin-bottom: 0;
     background: url(https://lh3.googleusercontent.com/proxy/W7Fezo4LL2ZuUb0Vl5fSzHqJ4iy21rMfS7K8osiHvfapHP96RuF0IP1XJ2oRZtQYDuuUY9C4fYzEncr8Cs71QpwV0Ytymv4vAc9ZxKnE6HjAJNyWJGd8yQ) no-repeat center center;
@@ -80,7 +85,7 @@ footer li{
 }
 
 #servicesimage{
-    height: 800px;
+    height: 400px;
     width: 100%;
     background: url(http://pdacademy.co.za/wp-content/uploads/2016/04/service-banner.png) no-repeat center center;
     overflow: hidden;
@@ -94,7 +99,7 @@ footer li{
 }
 
 #contact{
-    height: 800px;
+    height: 400px;
     width: 100%;
     background: url(https://st2.depositphotos.com/1560768/5217/i/600/depositphotos_52175409-stock-photo-female-hand-touching-contact-us.jpg) no-repeat center center; 
     overflow: hidden;
@@ -102,7 +107,54 @@ footer li{
 }
 
 .contact{
+    width: 50%;
     font-family: Arial, Helvetica, sans-serif;
     text-align: left;
     background-color: teal;
+}
+
+#blueboat{
+    height: 300px;
+    width: 300px;
+    background: url(http://wexfordharbour.com/wp-content/uploads/2016/04/blue-boat.png) no-repeat;
+    padding: 1px, 1px, 1px, 1px;
+    float: left;
+}
+
+#castle{
+    height: 300px;
+    width: 300px;
+    background: url(https://www.travelireland.org/wexford/images/johnstown_castle.jpg) no-repeat;
+    padding: 1px, 1px, 1px, 1px;
+}
+
+#bridge{
+    height: 300px;
+    width: 300px;
+    background: url(http://wexfordharbour.com/wp-content/gallery/home-page-gallery/wex6.jpg) no-repeat;
+    padding: 1px, 1px, 1px, 1px;
+    float: right;
+}
+
+.forrest{
+    height: 300px;
+    width: 300px;
+    background: url(https://media-cdn.tripadvisor.com/media/photo-s/10/bf/f1/8e/photo0jpg.jpg) no-repeat;
+    padding: 1px, 1px, 1px, 1px;
+    float: left;
+}
+
+.hook{
+    height: 300px;
+    width: 300px;
+    background: url(https://i1.trekearth.com/photos/5513/287.jpg) no-repeat;
+    padding: 1px, 1px, 1px, 1px;
+}
+
+.abby{
+    height: 300px;
+    width: 300px;
+    background: url(https://wexfordtrails.ie/wp-content/uploads/2018/08/Tintern-Abbey-Wexford-Trails.jpg) no-repeat;
+    padding: 1px, 1px, 1px, 1px;
+    float: right;
 }
