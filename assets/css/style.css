@@ -78,8 +78,7 @@ footer li{
 #aboutimage{
     height: 400px;
     width: 100%;
-    margin-bottom: 0;
-    background: url(https://lh3.googleusercontent.com/proxy/W7Fezo4LL2ZuUb0Vl5fSzHqJ4iy21rMfS7K8osiHvfapHP96RuF0IP1XJ2oRZtQYDuuUY9C4fYzEncr8Cs71QpwV0Ytymv4vAc9ZxKnE6HjAJNyWJGd8yQ) no-repeat center center;
+    background: url(https://webclickhub.com/wp-content/uploads/2020/08/About-Us.jpg) no-repeat center center;
     overflow: hidden;
     position: relative;
 }
@@ -116,45 +115,20 @@ footer li{
 #blueboat{
     height: 300px;
     width: 300px;
-    background: url(http://wexfordharbour.com/wp-content/uploads/2016/04/blue-boat.png) no-repeat;
+    background: url() no-repeat;
     padding: 1px, 1px, 1px, 1px;
     float: left;
 }
 
-#castle{
-    height: 300px;
-    width: 300px;
-    background: url(https://www.travelireland.org/wexford/images/johnstown_castle.jpg) no-repeat;
-    padding: 1px, 1px, 1px, 1px;
+.projects{
+    clear: both;
+    line-height: 0;
+    padding: 1px 1px 1px 1px;
+    column-count: 2;
+    padding: 2px, 2px 2px 2px;
+    margin: 2px, 2px 2px 2px;
 }
 
-#bridge{
-    height: 300px;
-    width: 300px;
-    background: url(http://wexfordharbour.com/wp-content/gallery/home-page-gallery/wex6.jpg) no-repeat;
-    padding: 1px, 1px, 1px, 1px;
-    float: right;
-}
-
-.forrest{
-    height: 300px;
-    width: 300px;
-    background: url(https://media-cdn.tripadvisor.com/media/photo-s/10/bf/f1/8e/photo0jpg.jpg) no-repeat;
-    padding: 1px, 1px, 1px, 1px;
-    float: left;
-}
-
-.hook{
-    height: 300px;
-    width: 300px;
-    background: url(https://i1.trekearth.com/photos/5513/287.jpg) no-repeat;
-    padding: 1px, 1px, 1px, 1px;
-}
-
-.abby{
-    height: 300px;
-    width: 300px;
-    background: url(https://wexfordtrails.ie/wp-content/uploads/2018/08/Tintern-Abbey-Wexford-Trails.jpg) no-repeat;
-    padding: 1px, 1px, 1px, 1px;
-    float: right;
+.projects img{
+    width: 100%;
 }
