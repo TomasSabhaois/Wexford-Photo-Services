@@ -60,7 +60,7 @@ footer li a{
     background-color: rgba(241, 109, 107, .7);
     color: white;
     word-spacing: 5px;
-    margin-left: 100px;
+    margin-left: 150px;
     margin-top: 100px;
     font-family: monospace;
     font-weight: bolder;
@@ -100,7 +100,7 @@ footer li a{
 .servicesbackground{
     height: 800px;
     width: 100%;
-    background: url((https://webclickhub.com/wp-content/uploads/2020/08/About-Us.jpg) no-repeat center center;
+    background: url(https://webclickhub.com/wp-content/uploads/2020/08/About-Us.jpg) no-repeat center center;
     overflow: hidden;
     position: relative;
 }
