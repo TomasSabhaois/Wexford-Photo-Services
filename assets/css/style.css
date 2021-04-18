@@ -70,7 +70,15 @@ footer li a{
 #homeimage{
     height: 600px;
     width: 100%;
-    background: url(https://i.imgur.com/6J8VW6k.jpg) no-repeat center center;
+    background: url(https://pbs.twimg.com/media/EELMus8WsAAYwJ6.jpg) no-repeat center center;
+    overflow: hidden;
+    position: relative;
+}
+
+.aboutbackground{
+    height: 800px;
+    width: 100%;
+    background: url(https://www.visitwexford.ie/wp-content/uploads/2018/04/Johnstown-Castle_Castle-facade-lake-scaled-1.jpg) no-repeat center center;
     overflow: hidden;
     position: relative;
 }
@@ -89,6 +97,14 @@ footer li a{
     position: relative;
 }
 
+.servicesbackground{
+    height: 800px;
+    width: 100%;
+    background: url(http://4.bp.blogspot.com/-gqgOUI-YOgE/VHjU5Kt7h-I/AAAAAAAARXE/4OSb2KP1-Xo/s1600/wexford-quay.jpg) no-repeat center center;
+    overflow: hidden;
+    position: relative;
+}
+
 #servicesimage{
     height: 400px;
     width: 100%;
@@ -101,6 +117,14 @@ footer li a{
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     background-color: rgba(241, 109, 107, .7);
+}
+
+.contactbackground{
+    height: 800px;
+    width: 100%;
+    background: url(https://lh3.googleusercontent.com/proxy/9WYlgGeO3cmwL0wtAkXW0rrTma-q73HCVFlsxJ_ZMXkHrAJ-Nd0pvfouWbiTBiUIlyGC28U-YtTqExaQRoEL26ahA1nKjGdmaxgScGUqVO7c_JpzTgoiVPn3NCKNMNM0t56amA) no-repeat center center;
+    overflow: hidden;
+    position: relative;
 }
 
 #contact{
