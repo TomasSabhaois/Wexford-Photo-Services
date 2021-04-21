@@ -46,4 +46,9 @@ pages, while the Footer consists of contact details which consists of a fictiona
 contact purposes and links to their socail media pages which showcases their work.
 
 Issues & Bug Fixes
+A few issues arose in the project.  The margin and padding had to be ajusted to allow images and text could be more visually 
+appealing for the user.  It wasnt overly difficult to fix these issues.  After two mentor calls it was reccomended to showcase some work
+by students and teachers on the Wexofrd Photo Services page.  Similar to other Photo Websites showing their work I aquired photos of
+Wexoford landmarks and points of intrest from around the county.  This made the site more visually appealing.  The header and Footer
+remained in black and white for looks.
 
