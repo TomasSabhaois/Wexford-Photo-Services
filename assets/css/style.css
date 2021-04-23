@@ -5,6 +5,7 @@ body{
 }
 
 .header{
+    background: url(https://netrinoimages.s3.eu-west-2.amazonaws.com/2017/08/17/464228/177038/20_mahogany_wood_background_textures_3d_model_c4d_max_obj_fbx_ma_lwo_3ds_3dm_stl_1909627_o.jpg)no-repeat center center;
     height: 150px;
     width: 100%;
     text-align: center;
@@ -34,9 +35,9 @@ body{
 
 
 footer{
+    background: url(https://netrinoimages.s3.eu-west-2.amazonaws.com/2017/08/17/464228/177038/20_mahogany_wood_background_textures_3d_model_c4d_max_obj_fbx_ma_lwo_3ds_3dm_stl_1909627_o.jpg)no-repeat center center;
     height: 150px;
     width: 100%;
-    background-color: black;
     text-align: center;
     color: white;
 }
@@ -69,7 +70,7 @@ footer li a{
 #homeimage{
     height: 600px;
     width: 100%;
-    background: url(https://pbs.twimg.com/media/EELMus8WsAAYwJ6.jpg) no-repeat center center;
+    background: url(https://www.ferrycarrighotel.ie/cmsGallery/imagerow/4942/resized/1600x1000/see_do_hook_2.jpg) no-repeat center center;
     overflow: hidden;
     position: relative;
 }
