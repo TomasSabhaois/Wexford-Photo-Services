@@ -57,7 +57,7 @@ footer li a{
 
 .hometext{
     text-align: center;
-   
+    background-color: rgba(174, 230, 69, .7);
     color: white;
     word-spacing: 5px;
     margin-left: 150px;
@@ -160,7 +160,7 @@ footer li a{
 .work{
     height: 400px;
     width: 100%;
-    background: url(https://lh3.googleusercontent.com/proxy/AQAC3gbDaAJcrblPzD0APLP-JSi0BBQsLPEKNp5E-g6MYZoMzSFkMkt6GpkRXoAAoafyELVcLOdYY7aS2A) no-repeat center center;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcQsHf3iuHW3gLBWrIfsWDrXns98vVIIFegqG0WkmEaji0e5PlcXMCeclpLAQVgLe9bIk&usqp=CAU) no-repeat center center;
     overflow: hidden;
     position: relative;
 }
