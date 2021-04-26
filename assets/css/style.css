@@ -57,7 +57,7 @@ footer li a{
 
 .hometext{
     text-align: center;
-    background-color: rgba(241, 109, 107, .7);
+   
     color: white;
     word-spacing: 5px;
     margin-left: 150px;
@@ -86,7 +86,9 @@ footer li a{
 .abouttext{
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
-    background-color: rgba(241, 109, 107, .7);
+    font-weight: bold;
+    color: black;
+    background-color: rgba(174, 230, 69, .7);
 }
 
 #aboutimage{
@@ -108,7 +110,7 @@ footer li a{
 .servicestext{
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
-    background-color: rgba(241, 109, 107, .7);
+     background-color: rgba(174, 230, 69, .7);
 }
 
 .background{
