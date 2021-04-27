@@ -151,15 +151,14 @@ footer li a{
 }
 
 #colum{
-    column-count: 4;
-    padding-left: 3px;
-    padding-right: 3px;
-    padding-bottom: 50px;
-    margin-left: 3px;
-    margin-bottom: 50px;
-    margin-right: 3px;
-    margin-top: 50px;
-    padding-top: 50px;
-    text-align: center;
+   column-count: 3;
+   column-width: 33.33%;
+   text-align: center;
+   padding: 5px 5px 5px 5px;
+}
+
+form{
+    display: block;
+    width: 50%;
 }
 
