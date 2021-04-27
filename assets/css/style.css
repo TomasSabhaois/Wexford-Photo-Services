@@ -81,6 +81,8 @@ footer li a{
     text-align: center;
     font-weight: bold;
     color: black;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
 }
 
 #aboutimage{
@@ -152,18 +154,12 @@ footer li a{
     column-count: 4;
     padding-left: 3px;
     padding-right: 3px;
+    padding-bottom: 50px;
     margin-left: 3px;
+    margin-bottom: 50px;
     margin-right: 3px;
-    margin-top: 20px;
-    padding-top: 20px;
+    margin-top: 50px;
+    padding-top: 50px;
     text-align: center;
 }
 
-.men{
-    float: left;
-    height: 200px;
-    width: 200px;
-    position: absolute;
-    margin-top: 100px;
-    padding: 10px 10px 10px 10px;
-}
