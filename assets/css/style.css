@@ -10,8 +10,8 @@ body{
     background: url(https://i.pinimg.com/originals/f7/4c/ed/f74ced9f22a4b6e83cd4fdad545b288b.jpg)no-repeat center center;
     color: white;
     text-align: center;
-
-
+    font-family: fantasy;
+    position: sticky;
 }
 
 .list li{
