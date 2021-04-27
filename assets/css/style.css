@@ -12,8 +12,7 @@ body{
     font-family: fantasy;
     background-color: black;
     color: white;
-    position: absolute;
-    position: fixed;
+    position: relative;
 }
 
 .list li{
