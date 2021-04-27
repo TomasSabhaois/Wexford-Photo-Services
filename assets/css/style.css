@@ -5,13 +5,14 @@ body{
 }
 
 .header{
-    background: url(https://i.pinimg.com/originals/f7/4c/ed/f74ced9f22a4b6e83cd4fdad545b288b.jpg) no-repeat center center;
     height: 200px;
     width: 100%;
-    text-align: center;
-    font-family: fantasy;
-    background-color: black;
-    color: white;
+    padding-top: 25px;
+     background: url(https://i.pinimg.com/originals/f7/4c/ed/f74ced9f22a4b6e83cd4fdad545b288b.jpg) no-repeat center center;
+     text-align: center;
+     font-family: fantasy;
+     color: white;
+     position: fixed;
 }
 
 .list li{
