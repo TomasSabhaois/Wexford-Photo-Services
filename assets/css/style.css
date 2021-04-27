@@ -12,6 +12,7 @@ body{
     font-family: fantasy;
     background-color: black;
     color: white;
+    position: fixed;
 }
 
 .list li{
@@ -150,12 +151,14 @@ footer li a{
 
 .left{
     float: left;
-    width: 40%;
+    width: 33%;
+    margin-bottom: 200px;
 }
 
 .right{
     float: right;
-    width: 40%;
+    width: 33%;
+    margin-bottom: 200px;
 }
 
 #centerimage{
@@ -164,4 +167,10 @@ footer li a{
     width: 250px;
     border-radius: 50%;
     padding: 2px,2px, 2px 2px;
+}
+
+#position{
+    align-items: center;
+    width: 100%;
+    text-align: left;
 }
