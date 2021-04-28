@@ -172,4 +172,7 @@ form{
 .aboutcolum{
     column-count: 2;
     column-width: 50%;
+    text-align: center;
+    margin: 20px 20px 20px 20px;
+    padding: 5px 5px 5px 5px;
 }
