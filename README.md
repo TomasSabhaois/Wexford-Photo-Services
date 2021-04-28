@@ -50,5 +50,8 @@ A few issues arose in the project.  The margin and padding had to be ajusted to 
 appealing for the user.  It wasnt overly difficult to fix these issues.  After two mentor calls it was reccomended to showcase some work
 by students and teachers on the Wexofrd Photo Services page.  Similar to other Photo Websites showing their work I aquired photos of
 Wexoford landmarks and points of intrest from around the county.  This made the site more visually appealing.  The header and Footer
-remained in black and white for looks.
+remained in black and white for looks. After my mentor calls change had to be made based on the UX design of the Website.  Bases on these
+recommendations I made necessary changes to the code and design to make the websice more appealing and user frindly.
+
+
 
