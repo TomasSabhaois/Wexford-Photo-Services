@@ -164,7 +164,12 @@ form{
 }
 
 .people{
-    height: 400px;
-    width: 400px;
+    height: 200px;
+    width: 200px;
     float: left;
+}
+
+.aboutcolum{
+    column-count: 2;
+    column-width: 50%;
 }
