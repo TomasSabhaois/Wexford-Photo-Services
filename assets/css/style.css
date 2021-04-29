@@ -151,7 +151,7 @@ footer li a{
 }
 
 #colum{
-   column-count: 3;
+   column-count: 2;
    column-width: 33.33%;
    text-align: center;
    margin: 20px 20px 20px 20px;
